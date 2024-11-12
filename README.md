@@ -20,3 +20,18 @@ To get started, follow these steps in Command Prompt:
    ```cmd
    git clone https://github.com/tuanlyphong/cpu.git
    ```
+
+1. **Compile**
+   Open Command Prompt, navigate to your desired directory, and run:
+
+   ```cmd
+   javac @sources.txt
+
+   ```
+
+1. **Run**
+   Open Command Prompt, navigate to your desired directory, and run:
+
+   ```cmd
+    java SchedulingGUI
+   ```
